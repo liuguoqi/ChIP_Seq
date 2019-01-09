@@ -12,8 +12,6 @@ Calculate ChIP_Seq median updown 200bp covered by reads .
 
 Usage :
 
-###################################################################################
-
 #         Usage:perl Calculate_ChIP_Seq_Peaks200bp_ReadsNumber.pl [options] 
 
 #         -h            Print help document and Exit 
@@ -36,12 +34,9 @@ Usage :
 
 #         Example : Calculate_ChIP_Seq_Peaks200bp_ReadsNumber.pl -i CTCF.txt -b test.soap
 
-######################################################################################
-
 #         Program : Calculate_ChIP_Seq_Peaks200bp_ReadsNumber.pl
 
 #         Version : V1.1
 
-######################################################################################
 
 
