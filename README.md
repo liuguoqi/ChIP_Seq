@@ -32,7 +32,7 @@ Usage:perl Calculate_ChIP_Seq_Peaks200bp_ReadsNumber.pl [options]
          
          -l   <int>    Reads length default : 83
      
-         Example : Calculate_ChIP_Seq_Peaks200bp_ReadsNumber.pl -i CTCF.txt -b DNP_50.soap
+         Example : Calculate_ChIP_Seq_Peaks200bp_ReadsNumber.pl -i CTCF.txt -b test.soap
 
 description:
        -h  will print help document and Exit 
