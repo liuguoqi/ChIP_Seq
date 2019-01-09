@@ -11,7 +11,8 @@ Calculate ChIP_Seq median updown 200bp covered by reads .
 3, output all.tsv , positive.tsv ,negative.tsv three file .
 
 
-################################################################################################################
+
+###################################################################################
 #         Usage:perl Calculate_ChIP_Seq_Peaks200bp_ReadsNumber.pl [options] 
 #         -h            Print help document and Exit 
 #         -i*  <str>    Must input Peaks file including 3 columns : chr start end
@@ -22,11 +23,11 @@ Calculate ChIP_Seq median updown 200bp covered by reads .
 #         -p   <int>    Aligned file reference position column number default : 9
 #         -l   <int>    Reads length default : 83
 #     
-#         Example : Calculate_ChIP_Seq_Peaks200bp_ReadsNumber.pl -i CTCF.txt -b DNP_50.soap
-################################################################################################################
+#         Example : Calculate_ChIP_Seq_Peaks200bp_ReadsNumber.pl -i CTCF.txt -b test.soap
+######################################################################################
 #         Program : Calculate_ChIP_Seq_Peaks200bp_ReadsNumber.pl
 #         Version : V1.1
 #         Contact : liuguoqi@hmzkjy.cn
-################################################################################################################
+######################################################################################
 
 
