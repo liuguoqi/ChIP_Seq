@@ -14,3 +14,4 @@ Usage :
 
 
 
+Usage:perl Calculate_ChIP_Seq_Peaks200bp_ReadsNumber.pl [options]
