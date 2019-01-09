@@ -33,3 +33,20 @@ Usage:perl Calculate_ChIP_Seq_Peaks200bp_ReadsNumber.pl [options]
          -l   <int>    Reads length default : 83
      
          Example : Calculate_ChIP_Seq_Peaks200bp_ReadsNumber.pl -i CTCF.txt -b DNP_50.soap
+
+description:
+       -h  will print help document and Exit 
+       
+       -i  must input peaks file ,must including three columns , 1:chr reference 2:start position 3:end position TAB seperate
+       -b must input align file , can heandle bam file , sam file , sam file , default sam file 
+       
+       -o output dir , if you not input default current dir (./)
+        
+       -r aligned column number postitive or negative default soap aligned file 7
+       
+       -f aligned column number reference default soap aligned file 8
+        
+       -p aligned column number reference position  default soap aligned file 9
+       
+       
+
