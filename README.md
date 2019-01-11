@@ -35,6 +35,8 @@ Usage:perl Calculate_ChIP_Seq_Peaks200bp_ReadsNumber.pl [options]
          Example : Calculate_ChIP_Seq_Peaks200bp_ReadsNumber.pl -i CTCF.txt -b test.soap
 
 description:
+
+
        -h  will print help document and Exit 
        
        -i  must input peaks file ,must including three columns , 1:chr reference 2:start position 3:end position TAB seperate
